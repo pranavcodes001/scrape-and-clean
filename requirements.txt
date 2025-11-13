@@ -1,0 +1,8 @@
+pandas
+numpy
+beautifulsoup4
+lxml
+requests
+ipykernel
+jupyter
+pyarrow
